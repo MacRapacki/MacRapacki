@@ -1,6 +1,6 @@
 ### Hello 👋
 
-## I am Maciej. I would like to become a Front End Developer 😄 
+#### I am Maciej. I would like to become a Front End Developer 😄 
 <!--
 **MacRapacki/MacRapacki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
