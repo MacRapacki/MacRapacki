@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### I am Maciej. I'm a self-learning, aspiring front-end developer who learns quickly, is ambitiousand is not afraid of new challenges. 😄 
+#### I'm Maciej. I'm a self-learning, aspiring front-end developer who learns quickly, is ambitiousand is not afraid of new challenges. 😄 
 <!--
 **MacRapacki/MacRapacki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
