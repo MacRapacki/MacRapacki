@@ -3,7 +3,7 @@
 #### I'm Maciej. I'm a self-learning, aspiring front-end developer who learns quickly, is ambitiousand is not afraid of new challenges. Beside's programming,  I like to eat and play sports. 😄
 
 
-- 🔨 I’m currently cnc machine operator/setter worker
+- 🔨 I’m currently cnc machine operator/setter worker.
 - 🌱 I’m currently learning ReactJS, Gatsbyjs.
 - ⚡  Available for Freelance projects/internship opportunities.
 - 📫 How to reach me: [mac.rapacki@gmail.com](mailto:mac.rapacki@gmail.com);
