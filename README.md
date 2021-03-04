@@ -4,7 +4,7 @@
 
 
 - 🔨 I’m currently cnc machine operator/setter worker.
-- 🌱 I’m currently learning ReactJS, Gatsbyjs.
+- 🌱 I’m currently learning ReactJS.
 - ⚡  Available for Freelance projects/internship opportunities.
 - 📫 How to reach me: [mac.rapacki@gmail.com](mailto:mac.rapacki@gmail.com);
 <h3 align="left">Languages and Tools:</h3>
