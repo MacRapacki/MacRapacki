@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### I'm Maciej. I'm a self-taugh, aspiring front-end developer who learns quickly, is ambitious and is not afraid of new challenges. Beside's programming,  I like to eat , sports, mostly football especialy Premier League. 😄
+#### I'm Maciej. I'm a self-taugh, front-end developer who learns quickly, is ambitious and is not afraid of new challenges. Beside's programming,  I like to eat , sports, mostly football especialy Premier League. 😄
 
 
 - 🔨 I’m currently cnc machine operator/setter worker.
