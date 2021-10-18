@@ -4,7 +4,7 @@
 
 
 - 🔨 I’m currently cnc machine operator/setter worker.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning ReactJS, Redux, and Typescript.
 - ⚡  Available for Freelance projects and full-time position opportunities.
 - 📫 How to reach me: [mac.rapacki@gmail.com](mailto:mac.rapacki@gmail.com)
 <h3 align="left">Languages and Tools:</h3>
