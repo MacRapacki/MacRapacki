@@ -14,6 +14,7 @@
 - Git
 - SASS
 - ReactJS
+- Redux
 
 
 #### Check out my [Portfolio](https://macrapacki.github.io/Portfolio/)
