@@ -15,7 +15,7 @@
 - SASS
 - ReactJS
 - Redux
-
+- typescrip
 
 #### Check out my [Portfolio](https://macrapacki.github.io/Portfolio/)
 <!--
